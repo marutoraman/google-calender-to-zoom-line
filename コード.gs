@@ -1,9 +1,9 @@
-const CALENDER_ID="takashi002013@gmail.com" //カレンダーID(メールアドレス)
-const LINE_TOKEN="32vCxxcJzW8b8gfXLJpkXG71KWb0n2gc6cODuj7lIxw" //LINE TOKEN
-const ZOOM_API_KEY = "qY_qLXM2S--ZBXU5H02jbw"
-const ZOOM_SECRET = "W3880SZoF6wbjS76L0rnQiD0GNVufNc1XMz5"
-const ZOOM_JWT = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6InFZX3FMWE0yUy0tWkJYVTVIMDJqYnciLCJleHAiOjE2NDcyNzM2NjEsImlhdCI6MTYxNTczMjMxM30.rV4wL5xG8aU7V9t3xahm5BaYu7GIgsd4E725EuF5P3w"
-const SLACK_WEBHOOK = "https://hooks.slack.com/services/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"
+const CALENDER_ID="" //カレンダーID(メールアドレス)
+const LINE_TOKEN="" //LINE TOKEN
+const ZOOM_API_KEY = ""
+const ZOOM_SECRET = ""
+const ZOOM_JWT = ""
+const SLACK_WEBHOOK = ""
 
 // カレンダー変更時に実行される関数
 function onCalendarEdit() {
